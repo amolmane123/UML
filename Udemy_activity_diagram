@@ -1,1 +1,106 @@
-<mxfile host="app.diagrams.net" modified="2023-03-04T06:15:27.925Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.41" version="21.0.2" etag="4ixTUd5ylitaFcFtJ-iA" type="github"><diagram name="Page-1" id="9eZPECviYAW4mI4kMCjf">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2023-03-04T06:34:34.427Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.41" etag="sUMlSWvEf66aEMeaOqxV" version="21.0.2" type="github">
+  <diagram name="Page-1" id="9eZPECviYAW4mI4kMCjf">
+    <mxGraphModel dx="1169" dy="620" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="cpdfxRf7UELyPANVsOcI-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cpdfxRf7UELyPANVsOcI-1" target="cpdfxRf7UELyPANVsOcI-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cpdfxRf7UELyPANVsOcI-1" value="" style="ellipse;fillColor=strokeColor;html=1;" vertex="1" parent="1">
+          <mxGeometry x="167" y="50" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cpdfxRf7UELyPANVsOcI-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cpdfxRf7UELyPANVsOcI-3" target="cpdfxRf7UELyPANVsOcI-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cpdfxRf7UELyPANVsOcI-7" value="Yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cpdfxRf7UELyPANVsOcI-2" target="cpdfxRf7UELyPANVsOcI-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cpdfxRf7UELyPANVsOcI-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="232" y="264" as="sourcePoint" />
+            <mxPoint x="497" y="350" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="497" y="264" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cpdfxRf7UELyPANVsOcI-22" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="cpdfxRf7UELyPANVsOcI-20">
+          <mxGeometry x="-0.1174" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cpdfxRf7UELyPANVsOcI-2" value="Student" style="rhombus;" vertex="1" parent="1">
+          <mxGeometry x="132" y="210" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="cpdfxRf7UELyPANVsOcI-3" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;Login&lt;/span&gt;&lt;/div&gt;" style="html=1;align=right;verticalAlign=top;rounded=1;absoluteArcSize=1;arcSize=50;dashed=0;spacingTop=10;spacingRight=30;whiteSpace=wrap;labelBackgroundColor=default;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="132" y="120" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="cpdfxRf7UELyPANVsOcI-10" value="Clicks on a course" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cpdfxRf7UELyPANVsOcI-6" target="cpdfxRf7UELyPANVsOcI-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cpdfxRf7UELyPANVsOcI-6" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;Show student course overview&lt;/span&gt;&lt;/div&gt;" style="html=1;align=right;verticalAlign=top;rounded=1;absoluteArcSize=1;arcSize=50;dashed=0;spacingTop=10;spacingRight=30;whiteSpace=wrap;labelBackgroundColor=none;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="97" y="360" width="170" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="cpdfxRf7UELyPANVsOcI-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cpdfxRf7UELyPANVsOcI-8" target="cpdfxRf7UELyPANVsOcI-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cpdfxRf7UELyPANVsOcI-23" value="Type a new question" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="cpdfxRf7UELyPANVsOcI-11">
+          <mxGeometry x="-0.2361" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cpdfxRf7UELyPANVsOcI-8" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;Show student course overview&lt;/span&gt;&lt;/div&gt;" style="html=1;align=right;verticalAlign=top;rounded=1;absoluteArcSize=1;arcSize=50;dashed=0;spacingTop=10;spacingRight=30;whiteSpace=wrap;labelBackgroundColor=none;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="97" y="490" width="170" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="cpdfxRf7UELyPANVsOcI-9" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;Save question in QA panel&lt;/span&gt;&lt;/div&gt;" style="html=1;align=right;verticalAlign=top;rounded=1;absoluteArcSize=1;arcSize=50;dashed=0;spacingTop=10;spacingRight=30;whiteSpace=wrap;labelBackgroundColor=none;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="97" y="620" width="170" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="cpdfxRf7UELyPANVsOcI-12" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;Show course details&lt;/span&gt;&lt;/div&gt;" style="html=1;align=right;verticalAlign=top;rounded=1;absoluteArcSize=1;arcSize=50;dashed=0;spacingTop=10;spacingRight=30;whiteSpace=wrap;labelBackgroundColor=none;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="97" y="490" width="170" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="cpdfxRf7UELyPANVsOcI-17" value="Clicks on a course" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cpdfxRf7UELyPANVsOcI-14" target="cpdfxRf7UELyPANVsOcI-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cpdfxRf7UELyPANVsOcI-14" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;Show student course overview&lt;/span&gt;&lt;/div&gt;" style="html=1;align=right;verticalAlign=top;rounded=1;absoluteArcSize=1;arcSize=50;dashed=0;spacingTop=10;spacingRight=30;whiteSpace=wrap;labelBackgroundColor=none;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="407" y="360" width="170" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="cpdfxRf7UELyPANVsOcI-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cpdfxRf7UELyPANVsOcI-15" target="cpdfxRf7UELyPANVsOcI-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cpdfxRf7UELyPANVsOcI-26" value="Type answer" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="cpdfxRf7UELyPANVsOcI-25">
+          <mxGeometry x="-0.2639" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cpdfxRf7UELyPANVsOcI-15" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;Expand question, show field for an answer&lt;/span&gt;&lt;/div&gt;" style="html=1;align=right;verticalAlign=top;rounded=1;absoluteArcSize=1;arcSize=50;dashed=0;spacingTop=10;spacingRight=30;whiteSpace=wrap;labelBackgroundColor=none;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="407" y="620" width="170" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="cpdfxRf7UELyPANVsOcI-18" value="Click on a question" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cpdfxRf7UELyPANVsOcI-16" target="cpdfxRf7UELyPANVsOcI-15">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="490" y="580" />
+              <mxPoint x="490" y="580" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cpdfxRf7UELyPANVsOcI-16" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;Show course management&lt;/span&gt;&lt;/div&gt;" style="html=1;align=center;verticalAlign=top;rounded=1;absoluteArcSize=1;arcSize=50;dashed=0;spacingTop=10;spacingRight=30;whiteSpace=wrap;labelBackgroundColor=none;labelBorderColor=none;horizontal=1;" vertex="1" parent="1">
+          <mxGeometry x="407" y="490" width="170" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="cpdfxRf7UELyPANVsOcI-24" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;Save answer to question in QA panel&lt;/span&gt;&lt;/div&gt;" style="html=1;align=right;verticalAlign=top;rounded=1;absoluteArcSize=1;arcSize=50;dashed=0;spacingTop=10;spacingRight=30;whiteSpace=wrap;labelBackgroundColor=none;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="407" y="750" width="170" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="cpdfxRf7UELyPANVsOcI-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="580" y="775" as="sourcePoint" />
+            <mxPoint x="577" y="515" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="660" y="775" />
+              <mxPoint x="660" y="515" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
